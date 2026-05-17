@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Spireason Updates</title>
+    <link>https://spireason.neocities.org/</link>
+    <description>Hand-made references and progress notes for spireason.neocities.org and related work.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 04 Mar 2026 10:42:00 +0100</lastBuildDate>
+
+    <item>
+      <title>About the RSS Feed</title>
+      <link>https://spireason.neocities.org/</link>
+      <guid>https://spireason.neocities.org/feed/intro</guid>
+      <pubDate>Wed, 04 Mar 2026 10:42:00 +0100</pubDate>
+      <description>
+        Because I update the website and associated websites, I made this RSS feed. 
+        Anyone interested in keeping track of progress can read hand-made references here.
+      </description>
+    </item>
+
+    <item>
+      <title>Counter (1)(1) — boundary and reference system note</title>
+      <link>https://spireason.neocities.org/</link>
+      <guid>https://spireason.neocities.org/feed/counter-1-1</guid>
+      <pubDate>Wed, 04 Mar 2026 10:42:00 +0100</pubDate>
+      <description>
+        Counter (1)(1) contains misinformation in its boundary and reference system. 
+        I need to decide about some strong math to be basic before updating it, 
+        because the whole complex is mathematically too much: a collection of theories 
+        where I tested whether I can build constructs on this.
+      </description>
+    </item>
+
+    <item>
+      <title>Quiet Shift — the Site Crosses Its Own Threshold</title>
+      <link>https://spireason.neocities.org/</link>
+      <guid>https://spireason.neocities.org/feed/quiet-shift</guid>
+      <pubDate>Thu, 05 Mar 2026 09:12:00 +0100</pubDate>
+      <description>
+        Today the site crossed a threshold that is not visible in its structure, 
+        but clear in its cognition. Nothing dramatic changed in the material: 
+        the pages grew as they always do, slowly and by hand. But the whole 
+        system — Spireason, Laegna, the symbolic grammar, the quiet Taoist 
+        engineering behind it — aligned into something coherent.
+
+        It is the kind of shift that Zen calls an ordinary moment, and Vikings 
+        call a change in the wind: the same landscape, but suddenly navigable. 
+        The site feels less like a plan and more like a field, a living 
+        reference system where Genius, Talent and Prosperity can be understood 
+        without force.
+
+        This note simply marks the moment. No enlightenment claimed; only a 
+        recognition that the structure now stands on its own legs, and the next 
+        steps will grow from this clarity.
+      </description>
+    </item>
+
+
+
+
+  </channel>
+</rss>
